@@ -41,7 +41,7 @@ all_doctors_data = []
 # --------------------------
 # Loop through pages
 # --------------------------
-for page_num in range(1, 10):  # 1 to 250 pages
+for page_num in range(1, 5):  # 1 to 250 pages
     print(f"\n🌍 Opening page {page_num} ...")
     url = f"https://doctor.webmd.com/providers/specialty/dermatology?pagenumber={page_num}"
     driver.get(url)
@@ -128,7 +128,45 @@ for page_num in range(1, 10):  # 1 to 250 pages
         # Biography
         biography = safe_find_text(driver, By.XPATH, "//div[contains(@class,'lhd-profile-bio')]")
 
-        # Final doctor data
+        # Conditions & Procedures 
+        condition_elements = driver.find_elements(
+            By.XPATH, "//div[contains(@class,'common-condition-procedure-card') and contains(@data-card-icon,'conditions')]//ul//li//span"
+        )
+        conditions_treated = list(set([elem.text.strip() for elem in condition_elements if elem.text.strip()]))
+
+        procedure_elements = driver.find_elements(
+            By.XPATH, "//div[contains(@class,'common-condition-procedure-card') and contains(@data-card-icon,'procedures')]//ul//li//span"
+        )
+        procedures = list(set([elem.text.strip() for elem in procedure_elements if elem.text.strip()]))
+
+        # Education & Certifications 
+        result = {'Medical License': [], 'Certifications': [], 'Education & Training': []}
+        subsections = driver.find_elements(By.CLASS_NAME, 'education-subsection')
+        for subsection in subsections:
+            header = safe_find_text(subsection, By.TAG_NAME, 'h2').upper()
+            if "MEDICAL LICENSE" in header:
+                wrappers = subsection.find_elements(By.CLASS_NAME, 'education-wrapper')
+                for wrapper in wrappers:
+                    school_div = wrapper.find_element(By.CLASS_NAME, 'school')
+                    status_span = school_div.find_elements(By.CLASS_NAME, 'license-status')
+                    status = status_span[0].text if status_span else ''
+                    full_text = school_div.text
+                    license_text = full_text.replace(status, '').strip(', ').strip()
+                    result['Medical License'].append({'license': license_text, 'status': status})
+            elif "CERTIFICATIONS" in header or "BOARD CERTIFICATIONS" in header:
+                cert_wrappers = subsection.find_elements(By.CLASS_NAME, 'education-wrapper')
+                for wrapper in cert_wrappers:
+                    cert_name = safe_find_text(wrapper, By.CLASS_NAME, 'school')
+                    if cert_name:
+                        result['Certifications'].append(cert_name)
+            elif "EDUCATION & TRAINING" in header:
+                wrappers = subsection.find_elements(By.CLASS_NAME, 'education-wrapper')
+                for wrapper in wrappers:
+                    school_name = safe_find_text(wrapper, By.CLASS_NAME, 'school') or ""
+                    year = safe_find_text(wrapper, By.CLASS_NAME, 'schoolyear') or ""
+                    result['Education & Training'].append({'school': school_name, 'year': year})
+
+        # Compile Doctor Data
         doctor_data = {
             "name": doctor_name,
             "biography": biography,
@@ -139,9 +177,12 @@ for page_num in range(1, 10):  # 1 to 250 pages
             "average_rating": average_rating,
             "experience": experience,
             "total_ratings": total_ratings,
+            "conditions_treated": conditions_treated,
+            "procedures_performed": procedures,
+            "education_certifications": result,
             "locations": all_locations,
             "first_location_google_maps": first_location,
-            "reviews": all_reviews
+            "reviews": all_reviews,
         }
 
         pprint(doctor_data)
@@ -158,22 +199,46 @@ for page_num in range(1, 10):  # 1 to 250 pages
 # --------------------------
 driver.quit()
 
+
+
 with open("doctors.json", "w", encoding="utf-8") as f:
     json.dump(all_doctors_data, f, indent=4, ensure_ascii=False)
-print("💾 Saved doctors.json successfully!")
 
-# Create CSV
+print("✅ doctors.json file saved successfully!")
+
+# 👇 Ab usi file ko read karke CSV create karo
+with open("doctors.json", "r", encoding="utf-8") as f:
+    all_doctors_data = json.load(f)
+
 with open("doctors.csv", "w", newline='', encoding="utf-8") as f:
     writer = csv.writer(f)
+
+    # CSV Header
     writer.writerow([
         "Doctor Name", "Profession", "Phone number", "Experience", "Average Rating", "Total Ratings",
-        "Biography", "Profile Link", "Profile Image", "Locations", "Google Maps", "Total Reviews", "Sample Review"
+        "Biography", "Profile Link", "Profile Image",
+        "Conditions Treated", "Procedures Performed",
+        "Education & Training", "Certifications", "Medical License",
+        "Locations", "First Location (Google Maps)", "Total Reviews", "Sample Review"
     ])
 
+    # Data rows
     for doctor in all_doctors_data:
-        locations_text = "; ".join([f"{loc.get('address','')} (📞 {loc.get('phone','')})" for loc in doctor.get("locations", [])])
+        education = doctor.get("education_certifications", {})
+        edu_train = "; ".join([
+            f"{e.get('school', '')} ({e.get('year', '')})"
+            for e in education.get("Education & Training", [])
+        ])
+        certs = ", ".join(education.get("Certifications", []))
+        med_license = "; ".join([
+            f"{m.get('license', '')} ({m.get('status', '')})"
+            for m in education.get("Medical License", [])
+        ])
+        locations = "; ".join([loc.get("address", "") for loc in doctor.get("locations", [])])
         reviews = doctor.get("reviews", [])
-        sample_review = " | ".join([r.get("comment", "") for r in reviews])
+        sample_review = "\n".join([r.get("comment", "").strip() for r in reviews])
+
+
         writer.writerow([
             doctor.get("name", ""),
             doctor.get("profession", ""),
@@ -184,9 +249,15 @@ with open("doctors.csv", "w", newline='', encoding="utf-8") as f:
             doctor.get("biography", ""),
             doctor.get("profile link", ""),
             doctor.get("Profile Image", ""),
-            locations_text,
+            ", ".join(doctor.get("conditions_treated", [])),
+            ", ".join(doctor.get("procedures_performed", [])),
+            edu_train,
+            certs,
+            med_license,
+            locations,
             doctor.get("first_location_google_maps", ""),
             len(reviews),
             sample_review
         ])
+
 print("✅ doctors.csv file created successfully!")

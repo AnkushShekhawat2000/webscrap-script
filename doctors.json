@@ -9,6 +9,31 @@
         "average_rating": "5.0",
         "experience": "35 Years Experience",
         "total_ratings": "9",
+        "conditions_treated": [
+            "Atypical Moles",
+            "Basal Cell Skin Cancer",
+            "Moles"
+        ],
+        "procedures_performed": [
+            "Skin Lesion Treatment or Removal",
+            "Cryotherapy for Skin Lesions",
+            "Laser Therapy for Skin Lesions"
+        ],
+        "education_certifications": {
+            "Medical License": [
+                {
+                    "license": "Medical Doctor, North Carolina, 2025",
+                    "status": "Expired"
+                }
+            ],
+            "Certifications": [],
+            "Education & Training": [
+                {
+                    "school": "University Of North Carolina At Chapel Hill School Of Medicine",
+                    "year": "Graduated 1990"
+                }
+            ]
+        },
         "locations": [
             {
                 "address": "Tryon Medical Partners 6060 Piedmont Row Dr S",
@@ -28,6 +53,31 @@
         "average_rating": "",
         "experience": "24 Years Experience",
         "total_ratings": "0",
+        "conditions_treated": [
+            "Atypical Moles",
+            "Contact Dermatitis",
+            "Moles"
+        ],
+        "procedures_performed": [
+            "Skin Biopsy",
+            "Mohs Surgery",
+            "Genital Skin Biopsy"
+        ],
+        "education_certifications": {
+            "Medical License": [
+                {
+                    "license": "Medical Doctor, North Carolina, 2026",
+                    "status": "Active"
+                }
+            ],
+            "Certifications": [],
+            "Education & Training": [
+                {
+                    "school": "University Of South Florida Health Morsani College Of Medicine",
+                    "year": "Graduated 2001"
+                }
+            ]
+        },
         "locations": [
             {
                 "address": "Tryon Medical Partners 6060 Piedmont Row Dr S",
@@ -51,6 +101,31 @@
         "average_rating": "",
         "experience": "11 Years Experience",
         "total_ratings": "0",
+        "conditions_treated": [
+            "Allergies and Allergic Reactions",
+            "Allergies (Allergic Rhinitis)",
+            "Rhinitis"
+        ],
+        "procedures_performed": [
+            "Allergy Shots",
+            "Mohs Surgery",
+            "Sublingual Immunotherapy"
+        ],
+        "education_certifications": {
+            "Medical License": [
+                {
+                    "license": "Medical Doctor, North Carolina, 2026",
+                    "status": "Active"
+                }
+            ],
+            "Certifications": [],
+            "Education & Training": [
+                {
+                    "school": "Wake Forest School Of Medicine",
+                    "year": "Graduated 2014"
+                }
+            ]
+        },
         "locations": [
             {
                 "address": "Tryon Medical Partners Southpark 6060 Piedmont Row Dr S",
@@ -82,6 +157,31 @@
         "average_rating": "",
         "experience": "22 Years Experience",
         "total_ratings": "0",
+        "conditions_treated": [
+            "Allergies and Allergic Reactions",
+            "Allergies (Allergic Rhinitis)",
+            "Rhinitis"
+        ],
+        "procedures_performed": [
+            "Skin Lesion Treatment or Removal",
+            "Allergy Shots",
+            "Sublingual Immunotherapy"
+        ],
+        "education_certifications": {
+            "Medical License": [
+                {
+                    "license": "Medical Doctor, North Carolina, 2026",
+                    "status": "Active"
+                }
+            ],
+            "Certifications": [],
+            "Education & Training": [
+                {
+                    "school": "Duke University School Of Medicine",
+                    "year": "Graduated 2003"
+                }
+            ]
+        },
         "locations": [
             {
                 "address": "Tryon Medical Partners Southpark 6060 Piedmont Row Dr S",
@@ -105,6 +205,38 @@
         "average_rating": "5.0",
         "experience": "15 Years Experience",
         "total_ratings": "66",
+        "conditions_treated": [],
+        "procedures_performed": [],
+        "education_certifications": {
+            "Medical License": [],
+            "Certifications": [],
+            "Education & Training": [
+                {
+                    "school": "The Ohio State University",
+                    "year": "2021"
+                },
+                {
+                    "school": "Massachusetts General Hospital/Harvard Medical School",
+                    "year": "2016"
+                },
+                {
+                    "school": "University of Minnesota Medical School",
+                    "year": "2020"
+                },
+                {
+                    "school": "Loyola University Medical Center",
+                    "year": "2015"
+                },
+                {
+                    "school": "Chicago Medical School at Rosalind Franklin U-Med & Sciences",
+                    "year": "Graduated 2014"
+                },
+                {
+                    "school": "UNIVERSITY OF SAINT THOMAS",
+                    "year": "Graduated 2010"
+                }
+            ]
+        },
         "locations": [
             {
                 "address": "6700 University Blvd",
@@ -225,6 +357,43 @@
         "average_rating": "",
         "experience": "15 Years Experience",
         "total_ratings": "0",
+        "conditions_treated": [
+            "High Blood Pressure",
+            "Hypertensive Emergency",
+            "High Cholesterol in Children and Teens"
+        ],
+        "procedures_performed": [
+            "Chest Fluoroscopy",
+            "Emergency Care",
+            "CT Scan"
+        ],
+        "education_certifications": {
+            "Medical License": [
+                {
+                    "license": "Medical Doctor, Arizona, 2026",
+                    "status": "Active"
+                },
+                {
+                    "license": "Medical Doctor, Maine, 2026",
+                    "status": "Active"
+                }
+            ],
+            "Certifications": [],
+            "Education & Training": [
+                {
+                    "school": "University Of Arizona College Of Medicine",
+                    "year": "Graduated 2010"
+                },
+                {
+                    "school": "UNIVERSITY OF ARIZONA COLLEGE OF MEDICINE",
+                    "year": ""
+                },
+                {
+                    "school": "Lsu Health Sciences",
+                    "year": ""
+                }
+            ]
+        },
         "locations": [
             {
                 "address": "Pima Pathologists PC 1601 W Saint Marys Rd",
@@ -252,6 +421,35 @@
         "average_rating": "5.0",
         "experience": "45 Years Experience",
         "total_ratings": "5",
+        "conditions_treated": [
+            "Back Pain",
+            "Back Pain in Children and Teens",
+            "Back Pain During Pregnancy"
+        ],
+        "procedures_performed": [
+            "Flu (Influenza) Test",
+            "Physical Therapy",
+            "Outpatient Rehabilitation"
+        ],
+        "education_certifications": {
+            "Medical License": [
+                {
+                    "license": "Medical Doctor, Washington",
+                    "status": "Active"
+                }
+            ],
+            "Certifications": [],
+            "Education & Training": [
+                {
+                    "school": "University Of Rochester School Of Medicine & Dentistry",
+                    "year": "Graduated 1980"
+                },
+                {
+                    "school": "Geisel School of Medicine - Dartmouth College",
+                    "year": ""
+                }
+            ]
+        },
         "locations": [
             {
                 "address": "Frontier Dermatology 3110 Commercial Ave Ste 105",
@@ -279,6 +477,31 @@
         "average_rating": "",
         "experience": "9 Years Experience",
         "total_ratings": "0",
+        "conditions_treated": [
+            "Atypical Moles",
+            "Moles",
+            "Seborrheic Keratosis"
+        ],
+        "procedures_performed": [
+            "Pathology Tests",
+            "Surgical Pathology",
+            "Kidney Transplant Biopsy"
+        ],
+        "education_certifications": {
+            "Medical License": [
+                {
+                    "license": "Medical Doctor, Washington, 2026",
+                    "status": "Active"
+                }
+            ],
+            "Certifications": [],
+            "Education & Training": [
+                {
+                    "school": "Perelman School Of Medicine At University Of Pennsylvania",
+                    "year": "Graduated 2016"
+                }
+            ]
+        },
         "locations": [
             {
                 "address": "North Sound Dermatology 4540 Cordata Pkwy Ste 101",
@@ -306,6 +529,26 @@
         "average_rating": "3.5",
         "experience": "",
         "total_ratings": "6",
+        "conditions_treated": [
+            "Basal Cell Skin Cancer",
+            "Squamous Cell Skin Cancer",
+            "Psoriasis"
+        ],
+        "procedures_performed": [
+            "Pathology Tests",
+            "Surgical Pathology",
+            "Kidney Transplant Biopsy"
+        ],
+        "education_certifications": {
+            "Medical License": [],
+            "Certifications": [],
+            "Education & Training": [
+                {
+                    "school": "San Antonio Uniformed Services Health Education",
+                    "year": ""
+                }
+            ]
+        },
         "locations": [
             {
                 "address": "Peacehealth Medical Group 4465 Cordata Pkwy Ste 101",
@@ -329,6 +572,13 @@
         "average_rating": "",
         "experience": "",
         "total_ratings": "0",
+        "conditions_treated": [],
+        "procedures_performed": [],
+        "education_certifications": {
+            "Medical License": [],
+            "Certifications": [],
+            "Education & Training": []
+        },
         "locations": [
             {
                 "address": "Peacehealth Obstetrics And Gynecology 4465 Cordata Pkwy",
@@ -352,6 +602,21 @@
         "average_rating": "4.0",
         "experience": "",
         "total_ratings": "3",
+        "conditions_treated": [
+            "Atypical Moles",
+            "Moles",
+            "Seborrheic Keratosis"
+        ],
+        "procedures_performed": [
+            "Pathology Tests",
+            "Surgical Pathology",
+            "Kidney Transplant Biopsy"
+        ],
+        "education_certifications": {
+            "Medical License": [],
+            "Certifications": [],
+            "Education & Training": []
+        },
         "locations": [
             {
                 "address": "Penobscot Valley Dermatology 381 Main St",
@@ -381,6 +646,26 @@
         "average_rating": "5.0",
         "experience": "",
         "total_ratings": "1",
+        "conditions_treated": [
+            "Atypical Moles",
+            "Breast Cancer, Metastatic or Recurrent",
+            "Moles"
+        ],
+        "procedures_performed": [
+            "Pathology Tests",
+            "Surgical Pathology",
+            "Kidney Transplant Biopsy"
+        ],
+        "education_certifications": {
+            "Medical License": [
+                {
+                    "license": "Nurse Practitioner, Maine, 2027",
+                    "status": "Active"
+                }
+            ],
+            "Certifications": [],
+            "Education & Training": []
+        },
         "locations": [
             {
                 "address": "Penobscot Valley Dermatology 381 Main St",
@@ -410,6 +695,35 @@
         "average_rating": "1.0",
         "experience": "20 Years Experience",
         "total_ratings": "4",
+        "conditions_treated": [
+            "Atypical Moles",
+            "Basal Cell Skin Cancer",
+            "Moles"
+        ],
+        "procedures_performed": [
+            "Pathology Tests",
+            "Surgical Pathology",
+            "Kidney Transplant Biopsy"
+        ],
+        "education_certifications": {
+            "Medical License": [
+                {
+                    "license": "Medical Doctor, Maine, 2026",
+                    "status": "Active"
+                }
+            ],
+            "Certifications": [],
+            "Education & Training": [
+                {
+                    "school": "Dartmouth Medical School",
+                    "year": "Graduated 2009"
+                },
+                {
+                    "school": "Geisel School Of Medicine At Dartmouth",
+                    "year": "Graduated 2005"
+                }
+            ]
+        },
         "locations": [
             {
                 "address": "Penobscot Valley Dermatology 381 Main St",
@@ -439,6 +753,31 @@
         "average_rating": "",
         "experience": "6 Years Experience",
         "total_ratings": "0",
+        "conditions_treated": [
+            "Atypical Moles",
+            "Moles",
+            "Seborrheic Keratosis"
+        ],
+        "procedures_performed": [
+            "Pathology Tests",
+            "Phototherapy for Skin Conditions",
+            "Surgical Pathology"
+        ],
+        "education_certifications": {
+            "Medical License": [
+                {
+                    "license": "Doctor Of Osteopathy, Washington, 2026",
+                    "status": "Active"
+                }
+            ],
+            "Certifications": [],
+            "Education & Training": [
+                {
+                    "school": "Campbell University Jerry M Wallace School Of Osteopathic Medicine",
+                    "year": "Graduated 2019"
+                }
+            ]
+        },
         "locations": [
             {
                 "address": "Trinity Health Livingston Hospital 620 Byron Rd",
@@ -470,6 +809,35 @@
         "average_rating": "5.0",
         "experience": "36 Years Experience",
         "total_ratings": "20",
+        "conditions_treated": [
+            "Basal Cell Skin Cancer",
+            "Squamous Cell Skin Cancer",
+            "Moles"
+        ],
+        "procedures_performed": [
+            "Radiation Therapy",
+            "Phototherapy for Skin Conditions",
+            "Mohs Surgery"
+        ],
+        "education_certifications": {
+            "Medical License": [
+                {
+                    "license": "Medical Doctor, Washington, 2027",
+                    "status": "Active"
+                }
+            ],
+            "Certifications": [],
+            "Education & Training": [
+                {
+                    "school": "University Of Stellenbosch Faculty Of Medicine And Health Sciences",
+                    "year": "Graduated 1989"
+                },
+                {
+                    "school": "The Anschutz Medical Campus",
+                    "year": ""
+                }
+            ]
+        },
         "locations": [
             {
                 "address": "North Sound Dermatology 3327 Colby Ave Ste B",
@@ -493,6 +861,31 @@
         "average_rating": "",
         "experience": "5 Years Experience",
         "total_ratings": "0",
+        "conditions_treated": [
+            "Atypical Moles",
+            "Actinic Lentigines",
+            "Moles"
+        ],
+        "procedures_performed": [
+            "Pathology Tests",
+            "Surgical Pathology",
+            "CT Scan"
+        ],
+        "education_certifications": {
+            "Medical License": [
+                {
+                    "license": "Medical Doctor, Washington, 2027",
+                    "status": "Active"
+                }
+            ],
+            "Certifications": [],
+            "Education & Training": [
+                {
+                    "school": "University Of South Florida Health Morsani College Of Medicine",
+                    "year": "Graduated 2020"
+                }
+            ]
+        },
         "locations": [
             {
                 "address": "Saint Michael Medical Center In Silverdale 1800 Nw Myhre Rd",
@@ -516,6 +909,26 @@
         "average_rating": "",
         "experience": "",
         "total_ratings": "0",
+        "conditions_treated": [
+            "Moles",
+            "Actinic Keratosis",
+            "Seborrheic Keratosis"
+        ],
+        "procedures_performed": [
+            "Pathology Tests",
+            "Surgical Pathology",
+            "Kidney Transplant Biopsy"
+        ],
+        "education_certifications": {
+            "Medical License": [
+                {
+                    "license": "Nurse Practitioner, Washington, 2026",
+                    "status": "Active"
+                }
+            ],
+            "Certifications": [],
+            "Education & Training": []
+        },
         "locations": [
             {
                 "address": "9951 Mickelberry Rd NW Ste 201",
@@ -535,6 +948,30 @@
         "average_rating": "4.5",
         "experience": "48 Years Experience",
         "total_ratings": "24",
+        "conditions_treated": [
+            "Atypical Moles",
+            "Basal Cell Skin Cancer",
+            "Moles"
+        ],
+        "procedures_performed": [
+            "Pathology Tests",
+            "Surgical Pathology",
+            "Kidney Transplant Biopsy"
+        ],
+        "education_certifications": {
+            "Medical License": [],
+            "Certifications": [],
+            "Education & Training": [
+                {
+                    "school": "University Of California Davis School Of Medicine",
+                    "year": "Graduated 1977"
+                },
+                {
+                    "school": "Oregon Health Science University Hospital",
+                    "year": ""
+                }
+            ]
+        },
         "locations": [
             {
                 "address": "Peninsula Dermatology Laser Clinic And Spa 3505 NW Anderson Hill Rd # 201",
@@ -558,6 +995,22 @@
         "average_rating": "4.5",
         "experience": "42 Years Experience",
         "total_ratings": "21",
+        "conditions_treated": [],
+        "procedures_performed": [],
+        "education_certifications": {
+            "Medical License": [],
+            "Certifications": [],
+            "Education & Training": [
+                {
+                    "school": "Oregon Health & Science University School Of Medicine",
+                    "year": "Graduated 1983"
+                },
+                {
+                    "school": "Us Naval Hospital",
+                    "year": ""
+                }
+            ]
+        },
         "locations": [
             {
                 "address": "The Doctors Clinic Cavalon Place 2011 NW Myhre Pl",
@@ -585,6 +1038,13 @@
         "average_rating": "3.5",
         "experience": "",
         "total_ratings": "14",
+        "conditions_treated": [],
+        "procedures_performed": [],
+        "education_certifications": {
+            "Medical License": [],
+            "Certifications": [],
+            "Education & Training": []
+        },
         "locations": [
             {
                 "address": "9924 NE 185th St",
@@ -639,572 +1099,5 @@
                 "date": "January 25, 2020"
             }
         ]
-    },
-    {
-        "name": "Dr. Kendra G. Bergstrom",
-        "biography": "Dr. Bergstrom works in Seattle, WA and specializes in Dermatology and Emergency Medicine Specialist.",
-        "phone number": "(206) 598-4067",
-        "profile link": "https://doctor.webmd.com/doctor/kendra-bergstrom-d2d3b8f0-30e2-4dc1-a70f-0d816bc90c84-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/n.png",
-        "profession": "Dermatology",
-        "average_rating": "5.0",
-        "experience": "",
-        "total_ratings": "18",
-        "locations": [
-            {
-                "address": "Womens Health Care Center At University Of Washington Medical Center Roosevelt 4225 Roosevelt Way NE",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=4225%20Roosevelt%20Way%20NE%2C%20Seattle%2C%20WA%2098105",
-        "reviews": []
-    },
-    {
-        "name": "Dr. Michi M. Shinohara",
-        "biography": "Dr. Shinohara works in Seattle, WA and specializes in Dermatology.",
-        "phone number": "(206) 598-4067",
-        "profile link": "https://doctor.webmd.com/doctor/michi-shinohara-66fd01c3-c19e-459f-930e-753b1f25cfba-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/n.png",
-        "profession": "Dermatology",
-        "average_rating": "5.0",
-        "experience": "",
-        "total_ratings": "7",
-        "locations": [
-            {
-                "address": "Womens Health Care Center At University Of Washington Medical Center Roosevelt 4225 Roosevelt Way NE",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=4225%20Roosevelt%20Way%20NE%2C%20Seattle%2C%20WA%2098105",
-        "reviews": []
-    },
-    {
-        "name": "Dr. Lisa E. Maier",
-        "biography": "Dr. Maier works in Seattle, WA and specializes in Dermatology.",
-        "phone number": "(206) 598-4067",
-        "profile link": "https://doctor.webmd.com/doctor/lisa-maier-28546aae-dec5-11e7-9f4c-005056a225bf-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/n.png",
-        "profession": "Dermatology",
-        "average_rating": "5.0",
-        "experience": "",
-        "total_ratings": "4",
-        "locations": [
-            {
-                "address": "Womens Health Care Center At University Of Washington Medical Center Roosevelt 4225 Roosevelt Way NE",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=4225%20Roosevelt%20Way%20NE%2C%20Seattle%2C%20WA%2098105",
-        "reviews": []
-    },
-    {
-        "name": "Dr. Linda Chinchih Chang, MD",
-        "biography": "Dr. Chang is Assistant Professor, Division of Dermatology.",
-        "phone number": "",
-        "profile link": "https://doctor.webmd.com/doctor/linda-chang-f4407da7-b2d7-4c4d-9893-d505d9ec700d-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/f.png",
-        "profession": "Dermatology",
-        "average_rating": "5.0",
-        "experience": "20 Years Experience",
-        "total_ratings": "1",
-        "locations": [
-            {
-                "address": "Womens Health Care Center At University Of Washington Medical Center Roosevelt 4225 Roosevelt Way NE",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=4225%20Roosevelt%20Way%20NE%2C%20Seattle%2C%20WA%2098105",
-        "reviews": []
-    },
-    {
-        "name": "Dr. Sanford Carlyle Barnes",
-        "biography": "Dr. Barnes graduated from the University of Washington in 1966. Dr. Barnes works in Seattle, WA and 3 other locations and specializes in Dermatology.",
-        "phone number": "(206) 543-3605",
-        "profile link": "https://doctor.webmd.com/doctor/sanford-barnes-c9291c90-42f4-48c0-b405-4e695fdf3f6e-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/n.png",
-        "profession": "Dermatology",
-        "average_rating": "",
-        "experience": "59 Years Experience",
-        "total_ratings": "0",
-        "locations": [
-            {
-                "address": "Birth Center At University Of Washington Medical Center 1959 Ne Pacific St",
-                "phone": ""
-            },
-            {
-                "address": "Adolescent Medicine Clinic At Harborview 325 9th Ave",
-                "phone": ""
-            },
-            {
-                "address": "Womens Health Care Center At University Of Washington Medical Center Roosevelt 4225 Roosevelt Way NE",
-                "phone": ""
-            },
-            {
-                "address": "The Polyclinic Vascular Surgery Broadway 1145 Broadway",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=1959%20Ne%20Pacific%20St%2C%20Seattle%2C%20WA%2098195",
-        "reviews": []
-    },
-    {
-        "name": "Dr. Katherine L. Brown, MD",
-        "biography": "Dr. Brown graduated from the University of North Carolina At Chapel Hill School of Medicine in 2007. She works in Seattle, WA and specializes in Dermatology.",
-        "phone number": "(206) 326-3530",
-        "profile link": "https://doctor.webmd.com/doctor/katherine-brown-8815d9b4-de48-4bdb-98d6-daa7c8c89aa3-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/f.png",
-        "profession": "Dermatology",
-        "average_rating": "5.0",
-        "experience": "18 Years Experience",
-        "total_ratings": "1",
-        "locations": [
-            {
-                "address": "Group Health Family Health Center At Capitol Hill 201 16th Ave E",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=201%2016th%20Ave%20E%2C%20Seattle%2C%20WA%2098112",
-        "reviews": []
-    },
-    {
-        "name": "Dr. Elizabeth Aline Thompson",
-        "biography": "Dr. Thompson graduated from the University of Washington School of Medicine in 2012. She works in Seattle, WA and 1 other location and specializes in Dermatology and Family Medicine.",
-        "phone number": "(206) 326-3000",
-        "profile link": "https://doctor.webmd.com/doctor/elizabeth-thompson-0d31c169-5879-4384-b5e6-1107e7cbf4b2-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/f.png",
-        "profession": "Dermatology",
-        "average_rating": "5.0",
-        "experience": "13 Years Experience",
-        "total_ratings": "1",
-        "locations": [
-            {
-                "address": "Washington Permanente Medical Group 125 16th Ave E",
-                "phone": ""
-            },
-            {
-                "address": "Group Health Family Health Center At Capitol Hill 201 16th Ave E",
-                "phone": ""
-            },
-            {
-                "address": "Washington Permanente Medical Group 201 16th Ave E",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=125%2016th%20Ave%20E%2C%20Seattle%2C%20WA%2098112",
-        "reviews": [
-            {
-                "rating": "5",
-                "comment": "\"Outstanding physician. Knows dermatology thoroughly\"",
-                "date": "June 16, 2025"
-            }
-        ]
-    },
-    {
-        "name": "Dr. Nan Guo Ring",
-        "biography": "Dr. Ring graduated from the University of Texas Southwestern Medical School in 2016. She works in Seattle, WA and specializes in Hospital Medicine, Dermatology and Internal Medicine.",
-        "phone number": "(206) 326-3000",
-        "profile link": "https://doctor.webmd.com/doctor/nan-ring-c058f78e-6d70-41a2-8cc1-76362207e7ca-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/f.png",
-        "profession": "Hospital Medicine",
-        "average_rating": "",
-        "experience": "9 Years Experience",
-        "total_ratings": "0",
-        "locations": [
-            {
-                "address": "Washington Permanente Medical Group 201 16th Ave E",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=201%2016th%20Ave%20E%2C%20Seattle%2C%20WA%2098112",
-        "reviews": []
-    },
-    {
-        "name": "Dr. Andrew Maple Lin",
-        "biography": "Dr. Lin graduated from the University of Michigan Medical School in 2013. He works in Seattle, WA and 1 other location and specializes in Dermatology.",
-        "phone number": "(206) 326-3000",
-        "profile link": "https://doctor.webmd.com/doctor/andrew-lin-0a1affbb-a46a-4405-95a1-7604640b9f81-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/m.png",
-        "profession": "Dermatology",
-        "average_rating": "",
-        "experience": "12 Years Experience",
-        "total_ratings": "0",
-        "locations": [
-            {
-                "address": "Davita Olympic View Dialysis Center 00552 125 16th Ave E",
-                "phone": ""
-            },
-            {
-                "address": "Washington Permanente Medical Group 201 16th Ave E",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=125%2016th%20Ave%20E%2C%20Seattle%2C%20WA%2098112",
-        "reviews": []
-    },
-    {
-        "name": "Dr. Lauren Kali Mccaffrey, MD",
-        "biography": "Dr. Mccaffrey graduated from the Washington University In St Louis School of Medicine in 2010. She works in Seattle, WA and specializes in Dermatology and Internal Medicine. Dr. Mccaffrey is affiliated with Harborview Medical Center.",
-        "phone number": "(206) 326-3530",
-        "profile link": "https://doctor.webmd.com/doctor/lauren-biesbroeck-d3bbc8ba-cfaf-4364-a0d3-800cfef61931-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/f.png",
-        "profession": "Dermatology",
-        "average_rating": "",
-        "experience": "15 Years Experience",
-        "total_ratings": "0",
-        "locations": [
-            {
-                "address": "Group Health Family Health Center At Capitol Hill 201 16th Ave E",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=201%2016th%20Ave%20E%2C%20Seattle%2C%20WA%2098112",
-        "reviews": []
-    },
-    {
-        "name": "Dr. John Lionel Halloran, MD",
-        "biography": "Dr. Halloran works in Seattle, WA and specializes in Dermatology.",
-        "phone number": "(206) 744-7086",
-        "profile link": "https://doctor.webmd.com/doctor/john-halloran-cab7375f-3782-4770-9fa8-e1429a873fc5-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/n.png",
-        "profession": "Dermatology",
-        "average_rating": "",
-        "experience": "",
-        "total_ratings": "0",
-        "locations": [
-            {
-                "address": "Adolescent Medicine Clinic At Harborview 325 9th Ave",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=325%209th%20Ave%2C%20Seattle%2C%20WA%2098104",
-        "reviews": []
-    },
-    {
-        "name": "Dr. Katherine Louise Deniro",
-        "biography": "Dr. Deniro graduated from the University of Washington School of Medicine in 2010. She works in Wenatchee, WA and 1 other location and specializes in Dermatology.",
-        "phone number": "(509) 663-8711",
-        "profile link": "https://doctor.webmd.com/doctor/katherine-deniro-f5f899e2-2d6c-4ecd-a4cf-f6d658ad1bdb-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/f.png",
-        "profession": "Dermatology",
-        "average_rating": "",
-        "experience": "15 Years Experience",
-        "total_ratings": "0",
-        "locations": [
-            {
-                "address": "Confluence Health 820 N Chelan Ave",
-                "phone": ""
-            },
-            {
-                "address": "Adolescent Medicine Clinic At Harborview 325 9th Ave",
-                "phone": ""
-            },
-            {
-                "address": "Radia Inc 1201 S Miller St",
-                "phone": ""
-            },
-            {
-                "address": "Confluence Health 707 N Emerson Ave",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=820%20N%20Chelan%20Ave%2C%20Wenatchee%2C%20WA%2098801",
-        "reviews": []
-    },
-    {
-        "name": "Dr. Meredith Jane -Pierce Sheedy, MD",
-        "biography": "Dr. Sheedy graduated from the University of Washington School of Medicine in 2004. She works in Seattle, WA and 1 other location and specializes in Dermatology. Dr. Sheedy is affiliated with Harborview Medical Center.",
-        "phone number": "(206) 744-3000",
-        "profile link": "https://doctor.webmd.com/doctor/meredith-sheedy-13c6c4b2-d8c4-4985-8e02-f94472c449aa-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/f.png",
-        "profession": "Dermatology",
-        "average_rating": "",
-        "experience": "21 Years Experience",
-        "total_ratings": "0",
-        "locations": [
-            {
-                "address": "Adolescent Medicine Clinic At Harborview 325 9th Ave",
-                "phone": ""
-            },
-            {
-                "address": "University Of Washington Dermatology Clinic At Harborview 325 9th Ave Fl 3",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=325%209th%20Ave%2C%20Seattle%2C%20WA%2098104",
-        "reviews": []
-    },
-    {
-        "name": "Dr. James P. Harnisch",
-        "biography": "Dr. Harnisch works in Seattle, WA and specializes in Dermatology.",
-        "phone number": "(206) 520-5000",
-        "profile link": "https://doctor.webmd.com/doctor/james-harnisch-28840ae8-dec5-11e7-9f4c-005056a225bf-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/n.png",
-        "profession": "Dermatology",
-        "average_rating": "5.0",
-        "experience": "",
-        "total_ratings": "7",
-        "locations": [
-            {
-                "address": "325 9th Ave.",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=325%209th%20Ave.%2C%20Seattle%2C%20WA%2098104",
-        "reviews": []
-    },
-    {
-        "name": "Dr. Roy Mitchell Colven",
-        "biography": "Dr. Colven works in Seattle, WA and specializes in Dermatology.",
-        "phone number": "(206) 520-5000",
-        "profile link": "https://doctor.webmd.com/doctor/roy-colven-2853a574-dec5-11e7-9f4c-005056a225bf-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/n.png",
-        "profession": "Dermatology",
-        "average_rating": "3.0",
-        "experience": "",
-        "total_ratings": "2",
-        "locations": [
-            {
-                "address": "325 9th Ave.",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=325%209th%20Ave.%2C%20Seattle%2C%20WA%2098104",
-        "reviews": []
-    },
-    {
-        "name": "Dr. Margit Laiwun Juhasz, MD",
-        "biography": "Dr. Juhasz graduated from the Icahn School of Medicine At Mount Sinai in 2016. She works in Burien, WA and specializes in Dermatology and Internal Medicine. Dr. Juhasz is affiliated with Uci Medical Center.",
-        "phone number": "(206) 248-5020",
-        "profile link": "https://doctor.webmd.com/doctor/margit-juhasz-122dd2d4-9960-4403-ba2d-525f60b12e5c-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/f.png",
-        "profession": "Dermatology",
-        "average_rating": "5.0",
-        "experience": "9 Years Experience",
-        "total_ratings": "1",
-        "locations": [
-            {
-                "address": "Dermatology Of Seattle And Bellevue 13610 1st Ave S",
-                "phone": ""
-            },
-            {
-                "address": "Saint Anne Hospital 16251 Sylvester Rd Sw",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=13610%201st%20Ave%20S%2C%20Burien%2C%20WA%2098168",
-        "reviews": [
-            {
-                "rating": "5",
-                "comment": "\"Dr. Jihad did an excellent job of explaining to me what she was doing and how I would recover with only an additional \"smile line\" on my cheek. And, she was correct!\"",
-                "date": "December 19, 2023"
-            }
-        ]
-    },
-    {
-        "name": "Dr. Frederick H. Rosewater, MD",
-        "biography": "Dr. Rosewater works in Burien, WA and specializes in Dermatology and Dermatopathology. Dr. Rosewater is affiliated with Uw Medical Center Northwest.",
-        "phone number": "(206) 248-5020",
-        "profile link": "https://doctor.webmd.com/doctor/frederick-rosewater-5dee4948-6550-4f4d-8674-d71bffcd0cb3-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/n.png",
-        "profession": "Dermatology",
-        "average_rating": "",
-        "experience": "",
-        "total_ratings": "0",
-        "locations": [
-            {
-                "address": "Dermatology Of Seattle 13610 1st Ave S",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=13610%201st%20Ave%20S%2C%20Burien%2C%20WA%2098168",
-        "reviews": []
-    },
-    {
-        "name": "Dr. Michael Wayne Cashman, MD",
-        "biography": "Dr. Cashman graduated from the George Washington University School of Medicine & Health Sciences in 2011. He works in Morris, MN and 2 other locations and specializes in Dermatology, Internal Medicine and Preventative Medicine. Dr. Cashman is affiliated with Montefiore Hospital.",
-        "phone number": "(320) 589-1313",
-        "profile link": "https://doctor.webmd.com/doctor/michael-cashman-2984c0b8-dec5-11e7-9f4c-005056a225bf-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/m.png",
-        "profession": "Dermatology",
-        "average_rating": "",
-        "experience": "14 Years Experience",
-        "total_ratings": "0",
-        "locations": [
-            {
-                "address": "Morris Eye Clinic 400 E 1st St",
-                "phone": ""
-            },
-            {
-                "address": "Wholistic Dermatology 99 N La Cienega Blvd Ste 301",
-                "phone": ""
-            },
-            {
-                "address": "Dermatology Of Seattle And Bellevue 13610 1st Ave S",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=400%20E%201st%20St%2C%20Morris%2C%20MN%2056267",
-        "reviews": []
-    },
-    {
-        "name": "Maria Sherisse Santos-Nichol",
-        "biography": "Maria Santos-Nichol works in Burien, WA and specializes in Nurse Practitioner and Dermatology. Maria Santos-Nichol is affiliated with Saint Anne Hospital.",
-        "phone number": "",
-        "profile link": "https://doctor.webmd.com/doctor/maria-santos-bc51d30b-4064-46e5-ab29-e411133c4d71-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/f.png",
-        "profession": "Nurse Practitioner",
-        "average_rating": "",
-        "experience": "",
-        "total_ratings": "0",
-        "locations": [
-            {
-                "address": "Dermatology Of Seattle 13610 1st Ave S",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=13610%201st%20Ave%20S%2C%20Burien%2C%20WA%2098168",
-        "reviews": []
-    },
-    {
-        "name": "Dr. Arlo Jon Miller",
-        "biography": "Dr. Arlo Miller grew up in the small town of Grafton, ND. His parents owned small businesses, and as a teenager, Arlo worked in his fathers auto body shop. When his uncle Arnie died of cancer, Arlo started ...",
-        "phone number": "(425) 654-1275",
-        "profile link": "https://doctor.webmd.com/doctor/arlo-miller-4e2f1fef-9f96-4a4d-a953-72afa41a7d4a-overview",
-        "Profile Image": "https://mdxvitals-res.cloudinary.com/private_images/h_150,w_150,c_fill,g_face,f_auto,dpr_auto/professionals/1525264/photo.jpg",
-        "profession": "Dermatology",
-        "average_rating": "",
-        "experience": "19 Years Experience",
-        "total_ratings": "0",
-        "locations": [
-            {
-                "address": "Miller Family Dermatology 450 NW Gilman Blvd Ste 301A",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=450%20NW%20Gilman%20Blvd%20Ste%20301A%2C%20Issaquah%2C%20WA%2098027",
-        "reviews": []
-    },
-    {
-        "name": "Dr. Charmaine Bandong Jensen, DO",
-        "biography": "Dr. Jensen graduated from the University of New England College of Osteopathic Medicine in 1999. She works in Lincolnville, ME and specializes in Dermatology and Plastic Surgery.",
-        "phone number": "(207) 230-1007",
-        "profile link": "https://doctor.webmd.com/doctor/charmaine-jensen-e855b13a-d08a-4ed7-b823-f0e4daf737ec-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/f.png",
-        "profession": "Dermatology",
-        "average_rating": "4.5",
-        "experience": "26 Years Experience",
-        "total_ratings": "19",
-        "locations": [
-            {
-                "address": "Maine Dermatology 2239 Atlantic Hwy",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=2239%20Atlantic%20Hwy%2C%20Lincolnville%2C%20ME%2004849",
-        "reviews": []
-    },
-    {
-        "name": "Dr. Amanda Jane Laska, MD",
-        "biography": "Dr. Laska graduated from the Uniformed Services Univ of The Health Sciences F E Hebert Schl of Medicine in 2013. She works in Tacoma, WA and 1 other location and specializes in Dermatology and Family Medicine. Dr. Laska is affiliated with Brooke Army Medical Center.",
-        "phone number": "(253) 968-1110",
-        "profile link": "https://doctor.webmd.com/doctor/amanda-laska-27f2d320-dec5-11e7-9f4c-005056a225bf-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/f.png",
-        "profession": "Dermatology",
-        "average_rating": "",
-        "experience": "12 Years Experience",
-        "total_ratings": "0",
-        "locations": [
-            {
-                "address": "Madigan Army Medical Center 9040 Jackson Ave",
-                "phone": ""
-            },
-            {
-                "address": "Multicare Allenmore Hospital 1901 S Union Ave",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=9040%20Jackson%20Ave%2C%20Tacoma%2C%20WA%2098431",
-        "reviews": []
-    },
-    {
-        "name": "Dr. Sunyoung Yoon",
-        "biography": "Dr. Yoon graduated from the Catholic University of Korea College of Medicine in 2003. He works in Tacoma, WA and specializes in Dermatology and Family Medicine.",
-        "phone number": "",
-        "profile link": "https://doctor.webmd.com/doctor/sunyoung-yoon-61a0f974-844e-466e-b4a0-f2faa499fd4b-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/m.png",
-        "profession": "Dermatology",
-        "average_rating": "",
-        "experience": "22 Years Experience",
-        "total_ratings": "0",
-        "locations": [
-            {
-                "address": "Saint Joseph Medical Center 1717 S J St",
-                "phone": ""
-            },
-            {
-                "address": "Multicare Allenmore Hospital 1901 S Union Ave",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=1717%20S%20J%20St%2C%20Tacoma%2C%20WA%2098405",
-        "reviews": []
-    },
-    {
-        "name": "Dr. Brenda F. Kodama, MD",
-        "biography": "Dr. Kodama attended the University of Hawaii in Honolulu, where she received her Bachelor of Arts degree with high honors and was elected into the Phi Beta Kappa Honor Society. She continued her medical ...",
-        "phone number": "(253) 564-3365",
-        "profile link": "https://doctor.webmd.com/doctor/brenda-kodama-72efed9e-0f75-4ed4-b824-60fc2921158d-overview",
-        "Profile Image": "https://mdxvitals-res.cloudinary.com/private_images/h_150,w_150,c_fill,g_face,f_auto,dpr_auto/professionals/1498074/photo.jpg",
-        "profession": "Dermatology",
-        "average_rating": "4.5",
-        "experience": "39 Years Experience",
-        "total_ratings": "14",
-        "locations": [
-            {
-                "address": "Cascade Eye & Skin Centers PC 5225 Cirque Dr W Ste 200",
-                "phone": ""
-            },
-            {
-                "address": "Cascade Eye & Skin Centers PC 11216 Sunrise Blvd E Ste 3-102",
-                "phone": ""
-            },
-            {
-                "address": "Cascade Eye & Skin Centers PC 1703 S Meridian Ste 101",
-                "phone": ""
-            },
-            {
-                "address": "Cascade Eye & Skin Centers PC 921 Harvey Rd NE Ste B",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=5225%20Cirque%20Dr%20W%20Ste%20200%2C%20University%20Place%2C%20WA%2098467",
-        "reviews": []
-    },
-    {
-        "name": "Julia E. Jarvis",
-        "biography": "Julia Jarvis works in Puyallup, WA and 2 other locations and specializes in Dermatology. Julia Jarvis is affiliated with Multicare Auburn Medical Center.",
-        "phone number": "(253) 848-3000",
-        "profile link": "https://doctor.webmd.com/doctor/julia-jarvis-24f6ccc1-220a-443c-b4da-1384ca58efc0-overview",
-        "Profile Image": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/Care_profileimg/n.png",
-        "profession": "Dermatology",
-        "average_rating": "3.0",
-        "experience": "",
-        "total_ratings": "1",
-        "locations": [
-            {
-                "address": "Cascade Eye & Skin Centers PC 11216 Sunrise Blvd E Ste 3-102",
-                "phone": ""
-            },
-            {
-                "address": "Cascade Eye & Skin Centers PC 1703 S Meridian Ste 101",
-                "phone": ""
-            },
-            {
-                "address": "Cascade Eye & Skin Centers PC 921 Harvey Rd NE Ste B",
-                "phone": ""
-            }
-        ],
-        "first_location_google_maps": "https://www.google.com/maps/dir/?api=1&destination=11216%20Sunrise%20Blvd%20E%20Ste%203-102%2C%20Puyallup%2C%20WA%2098374",
-        "reviews": []
     }
 ]
